@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/buscadorDeImagenesReact/static/js/main.badeeac9.chunk.js",
+    "main.js.map": "/buscadorDeImagenesReact/static/js/main.badeeac9.chunk.js.map",
+    "runtime-main.js": "/buscadorDeImagenesReact/static/js/runtime-main.7f797bbc.js",
+    "runtime-main.js.map": "/buscadorDeImagenesReact/static/js/runtime-main.7f797bbc.js.map",
+    "static/js/2.42db53b6.chunk.js": "/buscadorDeImagenesReact/static/js/2.42db53b6.chunk.js",
+    "static/js/2.42db53b6.chunk.js.map": "/buscadorDeImagenesReact/static/js/2.42db53b6.chunk.js.map",
+    "index.html": "/buscadorDeImagenesReact/index.html",
+    "static/js/2.42db53b6.chunk.js.LICENSE.txt": "/buscadorDeImagenesReact/static/js/2.42db53b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f797bbc.js",
+    "static/js/2.42db53b6.chunk.js",
+    "static/js/main.badeeac9.chunk.js"
+  ]
+}
